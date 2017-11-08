@@ -1,8 +1,8 @@
-# ID Track it
+# DocTrak
 
 #### Description
 
- ID Track It is a application that helps users track their lost ID as opposed to the hustle of getting new ones. The system that already exists is quite tedious and lengthened. ID Track It helps user to get their original identifications cards back.
+ DocTrak It is a application that helps users track their lost ID as opposed to the hustle of getting new ones. The system that already exists is quite tedious and lengthened. DocTrak It helps user to get their original identifications cards back.
 
 #### By 
 
