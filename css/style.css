@@ -6,7 +6,7 @@ header,
 }
 
 #intro {
-    background: url("../img/404.jpg")no-repeat center center fixed;
+    background: url("https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/3051169-poster-p-1-this-brooding-cityscape-is-what-google-maps-dreamt-about-last-night.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,5 +14,58 @@ header,
 }
 
 .top-nav-collapse {
-    background-color: #24355C;
+    background-color: #000000;
+}
+
+@media only screen and ( min-width: 300px) {
+  #submitForm{
+    padding: 10%;
+  }
+}
+
+@media only screen and ( min-width: 400px) {
+  .padsub {
+    padding-left: 15%;
+    padding-right: 15%
+  }
+}
+
+@media only screen and ( max-width: 400px) {
+  .mainer{
+    display: none;
+  }
+}
+
+.paddy{
+  padding: 5%;
+}
+.md-form label {
+    color: #000000;
+
+}
+
+#instructions{
+padding:10%;
+}
+
+.text-black{
+  color: black;
+}
+
+#card-head{
+  font-family: 'Yellowtail', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Niconne', cursive;
+font-family: 'Creepster', cursive;
+font-family: 'Baloo Bhaina', cursive;
+  color: #FFFFFF;
+  }
+#logo{
+  font-family: 'Yellowtail', cursive;
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Parisienne', cursive;
+  font-family: 'Niconne', cursive;
+  font-family: 'Creepster', cursive;
+  font-family: 'Baloo Bhaina', cursive;
 }
